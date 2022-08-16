@@ -1,0 +1,12 @@
+body{
+  backgroound-color: red;
+  font-family: sans-serif;
+  text-align: center;
+
+}
+.nav-link{
+  color: gold;
+}
+@media(max-width: 600px){
+  background-color: lightblue;
+}
